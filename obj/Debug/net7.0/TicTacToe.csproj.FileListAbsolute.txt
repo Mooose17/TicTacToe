@@ -1,0 +1,15 @@
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/bin/Debug/net7.0/TicTacToe
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/bin/Debug/net7.0/TicTacToe.deps.json
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/bin/Debug/net7.0/TicTacToe.runtimeconfig.json
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/bin/Debug/net7.0/TicTacToe.dll
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/bin/Debug/net7.0/TicTacToe.pdb
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.AssemblyInfo.cs
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.dll
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/refint/TicTacToe.dll
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.pdb
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/TicTacToe.genruntimeconfig.cache
+/Users/tommy.bowden/Developer/Play/C#/C# Projects/TicTacToe/obj/Debug/net7.0/ref/TicTacToe.dll
